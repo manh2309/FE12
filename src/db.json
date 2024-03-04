@@ -1,0 +1,28 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "Item 1",
+        "address": "Hà Nội",
+        "phone": "0976431235"
+      },
+      {
+        "id": 2,
+        "name": "Item 2",
+        "address": "C",
+        "phone": "0986234567"
+      },
+      {
+        "id": 3,
+        "name": "Item 3",
+        "address": "C",
+        "phone": "0986234567"
+      },
+      {
+        "id": 4,
+        "name": "Item 4",
+        "address": "D",
+        "phone": "098623453"
+      }
+    ]
+}
